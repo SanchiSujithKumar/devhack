@@ -1,4 +1,3 @@
-<!-- manikanta -->
 <!DOCTYPE HTML>
 <html>
 <head>
